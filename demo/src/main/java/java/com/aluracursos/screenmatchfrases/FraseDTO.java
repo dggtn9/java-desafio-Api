@@ -1,4 +1,4 @@
-package com.aluracursos.screenmatchfrases;
+package java.com.aluracursos.screenmatchfrases;
 
 public record FraseDTO(
          String titulo,
