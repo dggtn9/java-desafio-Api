@@ -1,4 +1,4 @@
-package com.aluracursos.screenmatchfrases;
+package java.com.aluracursos.screenmatchfrases;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
